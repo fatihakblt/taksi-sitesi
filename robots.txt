@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://erzurummerkezticaritaksi.com/sitemap.xml
